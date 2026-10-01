@@ -71,7 +71,7 @@ The browser runs headed (visible) by default, so you can watch each step.
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/LMS-Assignment-Automation-Tool.git
+git clone https://github.com/Bhavesh-patil-2302/LMS-Assignment-Automation-Tool.git
 cd LMS-Assignment-Automation-Tool
 
 pip install -r requirements.txt
